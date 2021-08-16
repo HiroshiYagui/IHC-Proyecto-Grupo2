@@ -1,0 +1,109 @@
+.left_col{
+    background-color: #4e73df;
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#4e73df),to(#224abe));
+    background-image: linear-gradient(180deg,#4e73df 10%,#224abe 100%);
+    background-size: cover;
+}
+.nav_title{
+    background-color: #4e73df;
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#224abe),to(#4e73df));
+    background-image: linear-gradient(180deg,#224abe 10%,#4e73df 100%);
+    background-size: cover;
+}
+.sidebar-footer{
+    background-color: #4e73df;
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,#224abe),to(#4e73df));
+    background-image: linear-gradient(180deg,#224abe 10%,#4e73df 100%);
+    background-size: cover;
+}
+
+.sidebar-divider{
+    width: 80%;
+    padding: 0;
+}
+
+.contenido_card .card_empresa,.card_medico,.card_paciente,.card_citas,.card_preescripcion,.card_historia,.card_pago,.card_calendario {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    background: rgba(166, 175, 255, 0.5);
+    overflow: hidden;
+    border: 0;
+    border-top: 1px rgba(87, 86, 86, 0.5);
+    cursor: pointer;
+}
+.inner h4{
+    color: rgba(46, 46, 46, 0.541);
+}
+.contenido_card h4:hover{
+    color: rgb(255, 255, 255);
+}
+.contenido_card .card_empresa {
+    background: rgb(137,139,181); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(137,139,181,1) 0%, rgba(195,206,219,1) 34%, rgba(238,237,255,1) 76%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(137,139,181,1) 0%,rgba(195,206,219,1) 34%,rgba(238,237,255,1) 76%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(137,139,181,1) 0%,rgba(195,206,219,1) 34%,rgba(238,237,255,1) 76%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#898bb5', endColorstr='#eeedff',GradientType=0 ); /* IE6-9 */
+}
+
+.contenido_card .card_medico{
+
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#429b64+0,44ce72+20,adf4cc+52,edfcf7+100 */
+    background: rgb(66,155,100); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(66,155,100,1) 0%, rgba(68,206,114,1) 20%, rgba(173,244,204,1) 52%, rgba(237,252,247,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(66,155,100,1) 0%,rgba(68,206,114,1) 20%,rgba(173,244,204,1) 52%,rgba(237,252,247,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(66,155,100,1) 0%,rgba(68,206,114,1) 20%,rgba(173,244,204,1) 52%,rgba(237,252,247,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#429b64', endColorstr='#edfcf7',GradientType=0 ); /* IE6-9 */
+
+}
+
+.contenido_card .card_paciente{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#5e5ee0+0,767ef2+20,c4d7fc+52,edfcf7+100 */
+    background: rgb(94,94,224); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(94,94,224,1) 0%, rgba(118,126,242,1) 20%, rgba(196,215,252,1) 52%, rgba(237,252,247,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(94,94,224,1) 0%,rgba(118,126,242,1) 20%,rgba(196,215,252,1) 52%,rgba(237,252,247,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(94,94,224,1) 0%,rgba(118,126,242,1) 20%,rgba(196,215,252,1) 52%,rgba(237,252,247,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e5ee0', endColorstr='#edfcf7',GradientType=0 ); /* IE6-9 */
+
+}
+.contenido_card .card_citas{
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#db605e+0,ef7575+20,f9c2c2+52,edfcf7+100 */
+    background: rgb(219,96,94); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(219,96,94,1) 0%, rgba(239,117,117,1) 20%, rgba(249,194,194,1) 52%, rgba(237,252,247,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(219,96,94,1) 0%,rgba(239,117,117,1) 20%,rgba(249,194,194,1) 52%,rgba(237,252,247,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(219,96,94,1) 0%,rgba(239,117,117,1) 20%,rgba(249,194,194,1) 52%,rgba(237,252,247,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#db605e', endColorstr='#edfcf7',GradientType=0 ); /* IE6-9 */
+
+}
+.contenido_card .card_preescripcion{
+
+}
+.contenido_card .card_historia{
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d3a05d+0,eacc72+20,f4eabe+53,f9f6ed+100 */
+        background: rgb(211,160,93); /* Old browsers */
+        background: -moz-linear-gradient(top,  rgba(211,160,93,1) 0%, rgba(234,204,114,1) 20%, rgba(244,234,190,1) 53%, rgba(249,246,237,1) 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(top,  rgba(211,160,93,1) 0%,rgba(234,204,114,1) 20%,rgba(244,234,190,1) 53%,rgba(249,246,237,1) 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(to bottom,  rgba(211,160,93,1) 0%,rgba(234,204,114,1) 20%,rgba(244,234,190,1) 53%,rgba(249,246,237,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d3a05d', endColorstr='#f9f6ed',GradientType=0 ); /* IE6-9 */
+    
+}
+
+.contenido_card .card_pago{
+
+}
+.contenido_card .card_calendario{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#494949+0,8e8e7f+20,e6edbd+59,f7f7ed+100 */
+    background: rgb(73,73,73); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(73,73,73,1) 0%, rgba(142,142,127,1) 20%, rgba(230,237,189,1) 59%, rgba(247,247,237,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(73,73,73,1) 0%,rgba(142,142,127,1) 20%,rgba(230,237,189,1) 59%,rgba(247,247,237,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(73,73,73,1) 0%,rgba(142,142,127,1) 20%,rgba(230,237,189,1) 59%,rgba(247,247,237,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#494949', endColorstr='#f7f7ed',GradientType=0 ); /* IE6-9 */
+
+}
+
+.encabezado{
+display: flex;
+justify-content: space-between;
+}
+.encabezado a{
+    height: 37px;
+}
